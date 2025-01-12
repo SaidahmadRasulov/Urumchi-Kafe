@@ -7,6 +7,9 @@ export default {
         coral: "#CEB568",
         green: '#12331E'
       },
+      fontFamily:{
+        monst: ["Montserrat", "serif"]
+      }
     },
   },
   plugins: [],
