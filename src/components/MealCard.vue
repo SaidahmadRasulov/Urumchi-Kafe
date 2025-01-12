@@ -13,7 +13,7 @@
       <div class="card_footer flex justify-center mt-12">
         <button 
           @click="handleAdd(item)" 
-          class="bg-green text-white px-4 py-2 rounded hover:bg-green-700">
+          class="bg-green hover:text-coral text-white px-4 py-2 rounded hover:bg-green-700">
           Добавить в корзину
         </button>
       </div>
